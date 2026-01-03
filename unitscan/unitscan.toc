@@ -1,0 +1,12 @@
+## Interface: 30300
+## Author: shirsig, tablegrapes, backport by Sattva
+## Title: unitscan [Project Epoch]
+## Version: 3.3.5
+## Notes: Unit scanner with flashy alert 
+## SavedVariables: unitscanDB, unitscan_defaults, unitscan_targets, unitscan_ignored
+
+
+libs\LibStub\LibStub.lua
+libs\LibCompat-1.0\lib.xml
+
+unitscan.lua
